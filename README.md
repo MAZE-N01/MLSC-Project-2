@@ -72,13 +72,11 @@ jupyter notebook notebook/customer_segmentation.ipynb
 ##  Repository Structure
 ```
 E-commerce-Customer-Segmentation/
-│-- data/                  # (Optional) Dataset folder
+│-- data/                  # Dataset folder
 │-- notebook/              # Jupyter Notebook for analysis
 │   ├── customer_segmentation.ipynb
-│-- visuals/               # (Optional) Folder for saved visualizations
+│-- visuals/               # Folder for saved visualizations
 │-- README.md              # Project documentation
-│-- requirements.txt       # Dependencies list
-│-- .gitignore             # Ignore unnecessary files
 ```
 
 ##  Author
