@@ -82,11 +82,8 @@ E-commerce-Customer-Segmentation/
 ```
 
 ##  Author
-**[Your Name]** – Data Scientist
-
-##  License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Mazen Emad**
 
 ---
- *Feel free to fork, contribute, or raise issues!* 🚀
+ *Feel free to fork, contribute, or raise issues!* 
 
