@@ -79,9 +79,6 @@ E-commerce-Customer-Segmentation/
 │-- README.md              # Project documentation
 ```
 
-##  Author
-**Mazen Emad**
-
 ---
  *Feel free to fork, contribute, or raise issues!* 
 
