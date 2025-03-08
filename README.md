@@ -26,28 +26,28 @@ The dataset consists of multiple tables containing:
 ##  Customer Segmentation Insights
 Based on clustering results, we identified **five key customer segments**:
 
-### ** Segment 1: High-Value Loyal Customers**
+### **Segment 1: High-Value Loyal Customers**
 - **Frequent coupon users** with high transactions.
 - **Low burn rate** (claim but don’t always redeem).
 - **Long-term customers**.
 - ✅ **Recommendation**: Offer premium loyalty rewards & exclusive coupons.
 
-### ** Segment 2: Inactive Customers**
+### **Segment 2: Inactive Customers**
 - **Rarely use coupons**.
 - **Never redeem claimed coupons**.
 - ✅ **Recommendation**: Reactivation campaigns, reminder emails, & limited-time discounts.
 
-### ** Segment 3: Occasional Users**
+### **Segment 3: Occasional Users**
 - **Moderate transactions & burn rates**.
 - **New customers testing out coupons**.
 - ✅ **Recommendation**: Targeted discount offers & cashback rewards.
 
-### ** Segment 4: New & Experimental Users**
+### **Segment 4: New & Experimental Users**
 - **Recently joined, low transaction history**.
 - **Potential future loyal customers**.
 - ✅ **Recommendation**: Welcome incentives & educational campaigns on savings.
 
-### ** Segment 5: Deal Seekers**
+### **Segment 5: Deal Seekers**
 - **High burn rate but low engagement outside discounts**.
 - ✅ **Recommendation**: Limited-time flash sales & exclusive deals.
 
